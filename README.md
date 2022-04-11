@@ -26,7 +26,7 @@
 
 ## Overview
 
-![screenshot](https://screenbud.com/shot/96a5cde3-4f23-4280-8d71-f765ea2f784c)
+![screenshot](https://screenbud.com/s/uJllC05YZ15)
 
 
 ### Built With
